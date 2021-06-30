@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - Saw
+  - EndPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Bound
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CheckPoint
+    uniqueID: 214317415
+    locked: 0
+  - name: Player
+    uniqueID: 3875373397
+    locked: 0
+  - name: Items
+    uniqueID: 3411123417
+    locked: 0
+  - name: Trap
+    uniqueID: 905815887
+    locked: 0
+  - name: Foreground
+    uniqueID: 718437195
+    locked: 0
